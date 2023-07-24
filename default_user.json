@@ -1,0 +1,13 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "admin",
+      "password": "locolope",
+      "email": "admin@reciclads.com",
+      "is_superuser": true,
+      "is_staff": true
+    }
+  }
+]
